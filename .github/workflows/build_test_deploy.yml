@@ -25,4 +25,4 @@ jobs:
     - name: Start Frontend
       run: npm run start-fe &
     - name: Execute UI Tests
-      run: npm start test:ui
+      run: npm run test:ui
